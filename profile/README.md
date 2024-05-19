@@ -28,7 +28,7 @@ Nosso plano de estudo envolve a preparação contínua em ciência de dados e ap
 ---
 
 ### Roadmap
-Confira nosso [Roadmap]([https://roadmap.sh/](https://roadmap.sh/r/primatype-brazil)).
+Confira nosso [Roadmap](https://roadmap.sh/r/primatype-brazil).
 
 ---
 
