@@ -1,5 +1,28 @@
 # PrimaType Brazil
 
+<pre>
+                                        .&& %                                   
+                                        (&&&&&                                  
+                                           &&&&,                                
+                                    &&%     %&&&&                               
+                               ,#       &&,  &&&&&% *                           
+                          (  &&  *&  &  & &  %&&&&& &&                          
+                        .##  &&,  /  &   .   &&&&&& &&&  .                      
+                        #(#  &#& &&. & ,# / &&&&&&& %&&(                        
+                    #(.  %&* .& %&&* &  %. %&&&&&& %%%%(   &(                   
+                     (.  &/& .& & ,& &    &&&&&&& #%%%%  & (,                   
+                          #  .&      #  (&&&&&&& %%%%%% %&.(.                   
+                          (     .(.*  (&&&&&&&  %%%%%%     (,                   
+                     # #  # ,*.#    &&&&&&&& .%%%%%%* /, , (.                   
+                     .#/  (      &&&&&&&&% (%%%%%%%  # ( #                      
+                      (/    .&&&&&&&&&, /%%%%%%%%        #                      
+                         &&&&&&&&%  /%%%%%%%%%    # ,(.( #                      
+                      &&&%,   *%%%%%%%%%%%%       #  .                          
+                      %%%%%%%%%%%%%%%%*     (/ #  #  ..                         
+                                   ,**( # #  ##/                                
+                                             (#                                 
+</pre>
+
 ## Sobre Nós
 Somos uma equipe dedicada a competir nas competições da Kaggle, aplicando nossas habilidades em ciência de dados para resolver problemas reais, ganhar prêmios em dinheiro e obter reconhecimento na comunidade global.
 
